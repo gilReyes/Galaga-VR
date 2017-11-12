@@ -2,29 +2,16 @@
 
 A virtual reality version of the classic game Galaga where the player will be flying through a tube controlling the spaceshihp with head controls while enemies try to kamikaze into him.
 
+## Disclaimer.
+ This is a very early version of the game and its not stable
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [Unity](https://unity3d.com/) - Game Engine Used
+* [Maya](https://www.autodesk.eu/products/maya/overview) - Modeling Software
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Gil Reyes Melendez** - *Initial work* - [gilReyes](https://github.com/gilReyes)
 
 ## Acknowledgments
 
